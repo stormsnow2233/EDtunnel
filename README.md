@@ -11,7 +11,7 @@ A proxy tool based on Cloudflare Workers and Pages, supporting multiple protocol
 
 **[中文文档](README_CN.md)**
 
-## Features
+
 
 - Support for Cloudflare Workers and Pages deployment
 - Multiple UUID configuration support
